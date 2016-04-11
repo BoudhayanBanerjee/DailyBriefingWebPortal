@@ -1,0 +1,33 @@
+ny times:
+----------------------
+
+Article Search API
+acfb98e33b9b1a9226e770b951a1841e:17:74735669
+
+Congress API
+872f283f3fa75ff6b9c0be3ca2c54967:2:74735669
+
+Geo API
+4eb4b56603f0717f0ae2312fcac4ec73:12:74735669
+
+Most Popular API
+16cc2c9ddf6dd14a8ff2445761250ed5:3:74735669
+
+Movie Reviews API
+1fd1a7aa33eb42a579b4877a8ea633ca:13:74735669	
+
+Semantic API
+8b78ea1c538f47328fbfe43bed59af71:8:74735669
+
+Times Newswire API
+1210cdfb75acf4d75b0facc604834c43:14:74735669
+
+Top Stories API
+b71c431d1098efaf5b6d78c021063d48:17:74735669
+
+google calender id:
+12899889178-aru9f0odmo17bb30d4i8r8bs3al2gkev.apps.googleusercontent.com
+
+football-data.org api key:
+276c78d8584e46778af8ee1047eb5ae3
+
